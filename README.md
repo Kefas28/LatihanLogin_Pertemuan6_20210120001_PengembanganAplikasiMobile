@@ -1,16 +1,5 @@
-# login
+Login
 
-A new Flutter project.
+![Screenshot 2023-11-17 153417](https://github.com/Kefas28/LatihanLogin_Pertemuan6_20210120001_PengembanganAplikasiMobile/assets/106581088/7a86e3da-8d41-4fe5-a5fd-98a79d27ad27)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-11-17 153445](https://github.com/Kefas28/LatihanLogin_Pertemuan6_20210120001_PengembanganAplikasiMobile/assets/106581088/2b42d585-06d0-4417-b9c8-79f24dfe28e4)
